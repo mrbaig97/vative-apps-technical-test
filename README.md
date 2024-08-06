@@ -20,8 +20,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/nodejs-technical-assessment.git
-cd nodejs-technical-assessment
+git clone (https://github.com/mrbaig97/vative-apps-techniical-test.git)
 Install dependencies:
 
 sh
